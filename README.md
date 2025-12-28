@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack projects using FastAPI, React, MongoDB<br><br>Backend APIs and real-world problem solving<br><br>👯 I’m looking to collaborate on<br><br>Open-source Python / Backend / React projects<br><br>AI, ML, and automation-based applications<br><br>🤝 I’m looking for help with<br><br>System design & scalable architectures<br><br>Production-ready AI/ML implementations<br><br>🌱 I’m currently learning<br><br>AI, Machine Learning & Generative AI<br><br>Cloud deployment and backend optimization<br><br>💬 Ask me about<br><br>Python, FastAPI, DBMS & backend development<br><br>DSA, interview prep & AI basics<br><br>⚡ Fun fact<br><br>I simplify complex tech concepts easily<br><br>Cricket lover who codes daily 🏏💻
+# 💫 About Me:🔭 FastAPI, React, MongoDB | 👯 Open-source & AI | 🤝 System design & AI/ML  
+🌱 AI, ML, GenAI & Cloud | 💬 Python, DBMS, DSA | ⚡ Tech + Cricket 🏏
 
 
 ## 🌐 Socials:
