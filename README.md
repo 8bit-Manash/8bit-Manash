@@ -1,12 +1,12 @@
 👋 Hi, I’m Manash Madhukar
 
-SDE @ Meeraq | Ex-Doubt Solver @ CodeChef
+SDE @ Meeraq | Associate Software Engineer @Hitachi | Ex-Doubt Solver @ CodeChef
 Top 10% on LeetCode | Full-Stack Web Developer
 
-🚀 FastAPI · React · MongoDB
-👯 Open-source & AI collaborations | 🤝 System Design & AI/ML
-🌱 Learning AI, ML, GenAI & Cloud
-💬 Python, DBMS, DSA | ⚡ Tech + Cricket 🏏
+🚀 FastAPI · React · MongoDB | 👯 Open-source & AI collaborations 
+🤝 System Design & AI/ML | 🌱 AI, ML, GenAI & Cloud
+🎶 RENDER, DOCKER, Hugging Face | 💬 Python, DBMS, DSA
+⚡ Tech + Cricket 🏏
 
 
 ## 🌐 Socials:
