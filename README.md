@@ -1,5 +1,3 @@
-# 💫 About Me:🔭 
-
 👋 Hi, I’m Manash Madhukar
 
 SDE @ Meeraq | Ex-Doubt Solver @ CodeChef
