@@ -34,21 +34,10 @@ and continuously improving my problem-solving and system design skills.
 
 ---
 
-## 🎯 Current Goals
-
-✅ Build production-ready full-stack applications  
-✅ Strengthen backend architecture & system design  
-✅ Improve DSA consistency and interview readiness  
-✅ Explore AI, GenAI, and Cloud-native systems
-
----
-
 ## 🤝 Let’s Connect
-
-💬 Ask me about **FastAPI, React, MongoDB, Docker, DSA**  
 📩 Reach me at **manastiwary2067@gmail.com**
 
-⚡ Fun fact: I debug more than I talk — and I enjoy both 😄
+⚡ Fun fact: I debug more than I talk ... and I enjoy both 😄
 
 ---
 
